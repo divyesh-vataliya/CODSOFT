@@ -22,11 +22,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
 ## Usage
-1. Ensure `advertising.csv` is present in the `Sales Prediction` directory (not included in this repo due to size).
-2. Run the script:
+1. Run the script:
    ```bash
    python Sales_prediction.py
    ```
-
-## Note
-- Large data files are excluded from the repository. Please download them manually if needed. 

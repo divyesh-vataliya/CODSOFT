@@ -23,12 +23,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
 ```
 
 ## Usage
-1. Download the dataset `creditcard.csv` from [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud) or another source.
-2. Place `creditcard.csv` in the `Credit Card Fraud Detection` directory (not included in this repo due to size).
-3. Run the script:
+1. Run the script:
    ```bash
    python fraud_detection.py
    ```
 
-## Note
-- Large data files are excluded from the repository. Please download them manually. 

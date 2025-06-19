@@ -25,17 +25,7 @@ This repository contains projects completed as part of the CodSoft Data Science 
    git clone https://github.com/divyesh-vataliya/CODSOFT.git
    ```
 2. Install the required dependencies for each project (see their respective README files).
-3. Download the necessary datasets as described in each project's README.
-4. Run the scripts as instructed in each project directory.
-
-## Note
-- Large data files are excluded from the repository. Please download them manually as described in each project's README.
-
-## Git LFS Installation
-To handle large data files, Git LFS (Large File Storage) is used. If you haven't installed Git LFS on your system, you can do so by running the following command:
-```sh
-git lfs install
-```
+3. Run the scripts as instructed in each project directory.
 
 ---
 
