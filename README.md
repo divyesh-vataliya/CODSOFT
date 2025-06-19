@@ -15,8 +15,9 @@ This repository contains projects completed as part of the CodSoft Data Science 
 - See [`Sales Prediction/README.md`](./Sales%20Prediction/README.md) for details and usage instructions.
 
 ### 3. Movie Rating Prediction
-- (Add a brief description here if you want, e.g., "Predicts movie ratings based on various features.")
-- See the project directory for more information.
+- Predicts movie ratings based on various features using regression models.
+- Includes data preprocessing, visualization, model training, and evaluation.
+- See [`Movie Rating Prediction/README.md`](./Movie%20Rating%20Prediction/README.md) for details and usage instructions.
 
 ## Getting Started
 1. Clone this repository:
