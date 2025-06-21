@@ -58,7 +58,7 @@ lr_model.fit(X_train, y_train)
 
 
 y_pred_lr = lr_model.predict(X_test)
-print("\nLinear Regression Predictions:{ y_pred_lr[:5]}")
+print("\nLinear Regression Predictions:", y_pred_lr[:5])
 
 # Evaluate Linear Regression model
 mse_lr = mean_squared_error(y_test, y_pred_lr)
@@ -101,7 +101,7 @@ def predict_sales(tv, radio, newspaper):
     return rf_model.predict(input_data)[0]
 
 # Example usage
-print("\nExample Prediction:")
+print("\nExample Prediction: TV=230.1, Radio=37.8, Newspaper=69.2")
 predicted_sales = predict_sales(230.1, 37.8, 69.2)
 print(f"Predicted Sales: {predicted_sales:.2f}")
 

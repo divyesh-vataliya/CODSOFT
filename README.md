@@ -4,20 +4,20 @@ This repository contains projects completed as part of the CodSoft Data Science 
 
 ## Projects
 
-### 1. Credit Card Fraud Detection
+### 1. Credit Card Fraud Detection (Task 5)
 - Detects fraudulent credit card transactions using machine learning models.
 - Includes data preprocessing, visualization, model training, and evaluation.
-- See [`Credit Card Fraud Detection/README.md`](./Credit%20Card%20Fraud%20Detection/README.md) for details and usage instructions.
+- See [`Codsoft_task-5 Credit Card Fraud Detection/README.md`](./Codsoft_task-5%20Credit%20Card%20Fraud%20Detection/README.md) for details and usage instructions.
 
-### 2. Sales Prediction
+### 2. Sales Prediction (Task 4)
 - Predicts sales based on advertising spend using regression models.
 - Includes data cleaning, visualization, model training, and evaluation.
-- See [`Sales Prediction/README.md`](./Sales%20Prediction/README.md) for details and usage instructions.
+- See [`Codsoft_task-4 Sales Prediction/README.md`](./Codsoft_task-4%20Sales%20Prediction/README.md) for details and usage instructions.
 
-### 3. Movie Rating Prediction
+### 3. Movie Rating Prediction (Task 2)
 - Predicts movie ratings based on various features using regression models.
 - Includes data preprocessing, visualization, model training, and evaluation.
-- See [`Movie Rating Prediction/README.md`](./Movie%20Rating%20Prediction/README.md) for details and usage instructions.
+- See [`Codsoft_task-2 Movie Rating Prediction/README.md`](./Codsoft_task-2%20Movie%20Rating%20Prediction/README.md) for details and usage instructions.
 
 ## Getting Started
 1. Clone this repository:
